@@ -1,0 +1,68 @@
+{
+    "moneta": 111,
+    "health": 72,
+    "happy": 70,
+    "golod": 62,
+    "odehda": [
+        {
+            "nadeto": false,
+            "kypleno": false,
+            "cost": 424,
+            "nazvanie": "blue t-shirt"
+        },
+        {
+            "nadeto": false,
+            "kypleno": false,
+            "cost": 342,
+            "nazvanie": "boots"
+        },
+        {
+            "nadeto": false,
+            "kypleno": false,
+            "cost": 354,
+            "nazvanie": "bow"
+        },
+        {
+            "nadeto": false,
+            "kypleno": false,
+            "cost": 319,
+            "nazvanie": "cap"
+        },
+        {
+            "nadeto": false,
+            "kypleno": false,
+            "cost": 404,
+            "nazvanie": "gold chain"
+        },
+        {
+            "nadeto": false,
+            "kypleno": false,
+            "cost": 459,
+            "nazvanie": "hat"
+        },
+        {
+            "nadeto": false,
+            "kypleno": false,
+            "cost": 396,
+            "nazvanie": "red t-shirt"
+        },
+        {
+            "nadeto": false,
+            "kypleno": false,
+            "cost": 466,
+            "nazvanie": "silver chain"
+        },
+        {
+            "nadeto": true,
+            "kypleno": true,
+            "cost": 325,
+            "nazvanie": "sunglasses"
+        },
+        {
+            "nadeto": false,
+            "kypleno": false,
+            "cost": 365,
+            "nazvanie": "yellow t-shirt"
+        }
+    ]
+}
