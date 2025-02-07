@@ -1,8 +1,8 @@
 {
-    "moneta": 111,
-    "health": 72,
-    "happy": 70,
-    "golod": 62,
+    "moneta": 27,
+    "health": -212,
+    "happy": -195,
+    "golod": -158,
     "odehda": [
         {
             "nadeto": false,
